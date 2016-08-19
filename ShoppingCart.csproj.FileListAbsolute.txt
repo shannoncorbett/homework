@@ -1,0 +1,6 @@
+C:\Users\lc39947\Desktop\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.exe.config
+C:\Users\lc39947\Desktop\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.exe
+C:\Users\lc39947\Desktop\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.pdb
+C:\Users\lc39947\Desktop\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.csprojResolveAssemblyReference.cache
+C:\Users\lc39947\Desktop\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.exe
+C:\Users\lc39947\Desktop\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.pdb
